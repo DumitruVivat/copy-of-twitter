@@ -4,10 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CopyOfTwitterApplication {
+public class ServingWebContentApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CopyOfTwitterApplication.class, args);
+        SpringApplication.run(ServingWebContentApplication.class, args);
     }
-
 }
